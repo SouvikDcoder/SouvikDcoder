@@ -3,7 +3,7 @@
 
 
 ## 💫About Me :
-- 🔭 I’m currently on a problem solving spreein Python.
+- 🔭 I’m currently on a quest to creat a centralized repository of LeetCode Problem Solutions for free in Python.
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 - 🤔 I’m looking for help with AI/ML Learning Progression Roadmap.
