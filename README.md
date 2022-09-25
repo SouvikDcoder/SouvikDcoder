@@ -32,7 +32,7 @@
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/souvikdcoder) [![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)](https://ibb.co/9TvGgGL)  [![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
- ](souvikpostjob01@okhdfcbank)
+ ](UPI ID : souvikpostjob01@okhdfcbank)
 
 <div align="center">
 
