@@ -27,7 +27,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SouvikDcoder&icon=0&color=1)](https://visitcount.itsvg.in) <a href="https://github.com/SouvikDcoder?tab=followers"><img src="https://img.shields.io/github/followers/SouvikDcoder?label=Followers&style=social" alt="GitHub Badge"></a>
+[![](https://visitcount.itsvg.in/api?id=SouvikDcoder&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in) <a href="https://github.com/SouvikDcoder?tab=followers"><img src="https://img.shields.io/github/followers/SouvikDcoder?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
   ## 💰You can help me by Donating
