@@ -1,5 +1,7 @@
 # Hello! 👋   I am Souvik
-<h3>I'm a passionate Full Stack SDET from India.</h3>
+<h3>I'm a passionate Full Stack SDET from India.</h3> 
+
+![Alt text](https://user-images.githubusercontent.com/18427983/194695769-c36d19c1-b144-47a5-b688-d1c9b78ffe68.png)
 
 
 ## 💫About Me :
