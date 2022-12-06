@@ -31,7 +31,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SouvikDcoder&theme=flag-india&hide_border=true" />
 </p>
 
-<a href="https://github.com/SouvikDcoder/github-readme-activity-graph"><img alt="Souvik Dey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SouvikDcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/SouvikDcoder/github-readme-activity-graph"><img alt="Souvik Dey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SouvikDcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
