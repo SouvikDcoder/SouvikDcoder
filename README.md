@@ -5,13 +5,13 @@ I'm a passionate Full Stack SDET from India.
 --->
 
 ## 💫About Me :
-- 🔭 I’m currently working on Advanced data structures[in Python].
-- 🌱 Currently learning more about **Linear Algebra**.
+- 🔭 I’m currently working on ML Hands-on.
+- 🌱 Currently learning more about **Deep Learning and Neural Nets**.
 - 👯 I’m looking to collaborate and contribute more on **OpenSource Projects**.
 - 🤔 I’m looking for help with AI/ML Learning Progression Roadmap.
 - 💬 Ask me about Python Automation or any SDET related stuff.
 - 📫 How to reach me: [Telegram](@Kuroi_akuma)
-- ⚡ Fun fact: In workouts, i only do Burpees! 
+- ⚡ Fun fact: In workouts, I only do Burpees! 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/souvik_d/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-d-ey/) 
