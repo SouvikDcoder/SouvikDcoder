@@ -8,8 +8,8 @@ I'm a passionate Full Stack SDET from India.
 - 🔭 I’m currently working on ML Hands-on.
 - 🌱 Currently learning more about **Deep Learning and Neural Nets**.
 - 👯 I’m looking to collaborate and contribute more on **OpenSource Projects**.
-- 🤔 I’m looking for help with AI/ML Learning Progression Roadmap.
-- 💬 Ask me about Python Automation or any SDET related stuff.
+- 🤔 I’m looking for help with AI/ML Handon projects and practical implementation assistance.
+- 💬 Ask me about Python Automation, QA Automation or any SDET-related stuff.
 - 📫 How to reach me: [Telegram](@Kuroi_akuma)
 - ⚡ Fun fact: In workouts, I only do Burpees! 
 
